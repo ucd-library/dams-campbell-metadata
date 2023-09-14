@@ -1,0 +1,47 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:Photograph",
+    "schema:ImageObject",
+    "schema:CreativeWork",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/0801054"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/0801571"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/mc022_3_5a.tif"
+  },
+  "schema:creator": "Campbell, Robert N.",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYearMonth",
+    "@value": "1978-08"
+  },
+  "schema:identifier": [
+    "MC-022, Box:MC022",
+    "ark:/87293/d3bx8w"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt5p30326c/"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:material": "2 slides",
+  "schema:name": "Caterpillar pulling a 5 ft soil chisler, near Patterson",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections"
+}

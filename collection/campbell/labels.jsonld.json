@@ -1,0 +1,40 @@
+[
+  {
+    "@id": "",
+    "@context": {
+      "ucdlib": "http://digital.ucdavis.edu/schema#"
+    },
+    "@type": [
+      "ucdlib:LabelService",
+      "ucdlib:Service"
+    ]
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/0549782",
+    "http://schema.org/name": "University of California, Davis"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/0801054",
+    "http://schema.org/name": "Agricultural machinery"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/0801571",
+    "http://schema.org/name": "Agriculture—Methodology"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1058861",
+    "http://schema.org/name": "Persons"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1207676",
+    "http://schema.org/name": "California--Davis"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1227728",
+    "http://schema.org/name": "California--Central Valley"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1853566",
+    "http://schema.org/name": "University of California, Davis. Department of Plant Pathology"
+  }
+]
