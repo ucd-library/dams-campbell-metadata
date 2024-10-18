@@ -38,7 +38,10 @@
     "@value": "2020"
   },
   "schema:description": "Robert N. Campbell served as Professor of Plant Pathology at the University of California, Davis from 1959-1993. This collection contains ninety-three 35mm slides, most of which were taken by Campbell, during his academic career. Subjects include: campus scenes, people, agricultural machinery and practices, and the Central Valley. \n\n The collection finding aid is available at [The Online Archive of California] (https://oac.cdlib.org/findaid/ark:/13030/kt5p30326c/).",
-  "schema:identifier": "MC-022",
+  "schema:identifier": [
+    "MC-022",
+    "ark:/87293/d38g8fq6g"
+  ],
   "schema:image": {
     "@id": "info:fedora/item/ark:/87293/d3d75g/mc022_1_3.tif"
   },
